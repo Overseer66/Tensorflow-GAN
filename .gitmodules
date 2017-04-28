@@ -1,3 +1,6 @@
 [submodule "genadv_tutorial"]
 	path = genadv_tutorial
 	url = https://github.com/ericjang/genadv_tutorial.git
+[submodule "gan-intro"]
+	path = gan-intro
+	url = https://github.com/AYLIEN/gan-intro.git
