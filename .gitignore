@@ -1,3 +1,4 @@
 MNIST_data/
 CelebA_data/
-result_figures/
+result/
+.ipynb_checkpoints
