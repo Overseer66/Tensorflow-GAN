@@ -23,5 +23,7 @@ Data Set :
     - Dropbox : https://www.dropbox.com/s/gxjc9p7s6xmo09k/CelebA_Align.zip?dl=0
     
     
+# Train Results
+    
 DCGAN 15 Epoch Result :
 <img src="assets/DCGAN.gif">
