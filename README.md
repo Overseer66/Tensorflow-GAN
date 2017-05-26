@@ -1,10 +1,10 @@
 # Tensorflow-GAN
-Deep Convolutional Generate Adversarial Net
+Generate Adversarial Net
 
 Dependencies :
   - tensorflow(1.0.0)
   - numpy(1.11.3)
-  ...
+  - ...
   
 Implement list :
   - Generative Adversarial Net
