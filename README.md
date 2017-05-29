@@ -1,10 +1,10 @@
 # Tensorflow-GAN
-Deep Convolutional Generate Adversarial Net
+Generate Adversarial Net
 
 Dependencies :
   - tensorflow(1.0.0)
   - numpy(1.11.3)
-  ...
+  - ...
   
 Implement list :
   - Generative Adversarial Net
@@ -17,7 +17,7 @@ Implement list :
   
   
 Data Set :
-  - mnist
+  - MNIST
   - CelebA
     - site : http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
     - Dropbox : https://www.dropbox.com/s/gxjc9p7s6xmo09k/CelebA_Align.zip?dl=0
@@ -25,5 +25,5 @@ Data Set :
     
 # Train Results
     
-DCGAN 15 Epoch Result :
+### DCGAN 15 Epoch Result :
 <img src="assets/DCGAN.gif">
