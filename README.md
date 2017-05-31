@@ -27,3 +27,6 @@ Data Set :
     
 ### DCGAN 15 Epoch Result :
 <img src="assets/DCGAN.gif">
+
+### BEGAN 17 Epoch Result :
+<img src="assets/BEGAN.gif">
