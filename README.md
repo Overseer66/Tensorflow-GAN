@@ -13,7 +13,7 @@ Implement list :
   - Deep Convolutional GAN
   - Info + DCGAN
   - Energy Based GAN (incomplete)
-  - Boundary Equilibrium GAN (incomplete)
+  - Boundary Equilibrium GAN
   
   
 Data Set :
